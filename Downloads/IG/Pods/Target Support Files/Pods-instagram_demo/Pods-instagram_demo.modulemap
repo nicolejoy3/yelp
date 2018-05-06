@@ -1,0 +1,6 @@
+framework module Pods_instagram_demo {
+  umbrella header "Pods-instagram_demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
